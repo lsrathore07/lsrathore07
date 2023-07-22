@@ -4,7 +4,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 - 🔭 I’m currently working on **Coding Skills.**
 - 👯 I’m looking to collaborate on **Web Development Projects.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/lsrathore07?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SRKhatik" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/lsrathore07?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LSRathore" height="30" width="40" /></a>
 - 💬 Ask me about **React js, JavaScript, HTML,CSS,Bootstrap,MySql, NodeJS, MongoDB, ExpressJS, **
 <br/>
 <br/>
